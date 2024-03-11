@@ -4,7 +4,7 @@
     },
 
     {
-        "script": "S1H-OwnedSystem",
+        "script": "s1h_ownedsystem",
         "version": "1.0"
     }
 ]

@@ -1,10 +1,10 @@
 [{
         "script": "s1h_core",
-        "version": "1.0.5"
+        "version": "1.0"
     },
 
     {
         "script": "S1H-OwnedSystem",
-        "version": "1.1.5"
+        "version": "1.0"
     }
 ]

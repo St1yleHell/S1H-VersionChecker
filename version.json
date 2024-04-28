@@ -6,5 +6,10 @@
     {
         "script": "s1h_ownedsystem",
         "version": "1.0"
+    },
+
+    {
+        "script": "s1h_weaponsonback",
+        "version": "1.0"
     }
 ]

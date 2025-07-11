@@ -17,4 +17,10 @@
         "script": "s1h_weaponsonback",
         "version": "1.0"
     },
+
+    {
+        "script": "s1h_hotwire",
+        "version": "1.1"
+    },
+ 
 ]

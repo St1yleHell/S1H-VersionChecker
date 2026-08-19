@@ -1,28 +1,19 @@
 [   
 
     {
-        "script": "s1h_core",
-        "version": "1.0"
-    },
-
-    {
-        "script": "s1h_lib",
-        "version": "1.0"
-    },
-
-    {
-        "script": "s1h_ownedsystem",
-        "version": "1.0"
-    },
-
-    {
-        "script": "s1h_weaponsonback",
+        "script": "s1h_bridge",
         "version": "1.0"
     },
 
     {
         "script": "s1h_hotwire",
         "version": "1.0"
-    }
+    },
+
+   
+    {
+        "script": "s1h_vehicleshop",
+        "version": "1.0"
+    } 
  
 ]

@@ -2,7 +2,7 @@
 
     {
         "script": "s1h_bridge",
-        "version": "1.0.0"
+        "version": "1.0.2"
     },
 
     {
@@ -12,7 +12,7 @@
 
     {
         "script": "s1h_vehicleshop",
-        "version": "1.0.0"
+        "version": "1.0.2"
     } 
  
 ]

@@ -13,6 +13,12 @@
     {
         "script": "s1h_vehicleshop",
         "version": "1.0.2"
+    },
+
+    {
+        "script": "s1h_object_gizmo",
+        "version": "1.0.0"
     } 
- 
+  
+
 ]

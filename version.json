@@ -18,7 +18,10 @@
     {
         "script": "s1h_object_gizmo",
         "version": "1.0.0"
-    } 
-  
+    },
 
+    {
+        "script": "s1h_uipack",
+        "version": "1.0.0" 
+    }
 ]
